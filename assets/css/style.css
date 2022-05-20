@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/bonsai-4634225_1920.jpg") center right;
+  background: url("../img/waterfall.jpg") center right;
   background-size: cover;
   position: relative;
 }
@@ -533,7 +533,7 @@ section {
   color: #82909c;
 }
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/profile.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -1127,7 +1127,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/hands-1327811_1280.jpg") center center no-repeat;
+  background: url("../img/tree-276014_1920.jpg") center center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
