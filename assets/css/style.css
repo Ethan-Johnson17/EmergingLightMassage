@@ -1199,3 +1199,16 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+.venmo {
+  height: 16px;
+  /* background-color: var(--secondary);
+  border-radius: 50%;
+  object-fit: cover;
+  padding: 9px; */
+  margin-bottom: 8px;
+  padding-top: 3px;
+}
+/* .venmo:hover {
+  background-color: var(--green);
+  cursor: pointer;
+} */
