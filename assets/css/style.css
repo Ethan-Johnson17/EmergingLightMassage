@@ -681,8 +681,12 @@ section {
 }
 
 .book-btn {
-  background-color: var(--secondary);
-  color: white;
+  background: var(--secondary);
+    border: 0;
+    padding: 10px 24px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 3.75rem !important;
 }
 
 
@@ -1224,4 +1228,8 @@ section {
 .psq {
   position: relative;
   bottom: 60%
+}
+
+.info-margin {
+  padding-bottom: 2.8rem !important;
 }
