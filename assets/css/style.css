@@ -672,13 +672,19 @@ section {
   color: var(--secondary);
 }
 
-.services .btn {
+.services .btn.seemore {
   background-color: var(--secondary);
   color: white;
   position: absolute;
   bottom: 3%;
   left: 40%;
 }
+
+.book-btn {
+  background-color: var(--secondary);
+  color: white;
+}
+
 
 /*--------------------------------------------------------------
 # Testimonials
@@ -1208,7 +1214,14 @@ section {
   margin-bottom: 8px;
   padding-top: 3px;
 }
-/* .venmo:hover {
-  background-color: var(--green);
-  cursor: pointer;
-} */
+
+.psqIcon {
+  height: 20px;
+  width: 20px;
+  border: white solid 4.3px;
+}
+
+.psq {
+  position: relative;
+  bottom: 60%
+}
